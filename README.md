@@ -31,6 +31,7 @@ This dashboard provides insights into sales data, including:
 - Most expensive items sold
 - Monthly sales trends
 - Key customers
+  
 [View the Tableau Visualization on Tableau Public](https://public.tableau.com/views/Transactions_Analyse/Dashboard2?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Requirements
