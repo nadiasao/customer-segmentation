@@ -5,8 +5,6 @@ This is the dataset where we carried out a series of transformations  and built 
 
 This ETL pipeline is in my [repository](https://github.com/nadiasao/ETL_pipeline_docker)
 
-[View the Tableau Visualization on Tableau Public](your_tableau_link_here)
-
 For this project we carried out following tasks:
 
  #### Part1: Analysing and visualizing
@@ -23,7 +21,7 @@ For this project we carried out following tasks:
         -Interpret segments with the average RFM values
         -Interpret segments with the snake plot.
 
-# My Sales Analysis Dashboard
+# Sales Analysis Dashboard
 A sales analysis via Tableau is also available.
 This dashboard provides insights into sales data, including:
 - Number of orders
