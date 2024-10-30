@@ -3,6 +3,8 @@ For this project, we will be working with  online_transactions_cleaned table we 
 
 This is the dataset where we carried out a series of transformations  and built an ETL pipeline  that cleans the data.
 
+A sales analysis via Tableau is also available.
+
 This ETL pipeline is in my [repository](https://github.com/nadiasao/ETL_pipeline_docker)
 
 For this project we carried out following tasks:
