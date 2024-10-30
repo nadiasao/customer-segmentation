@@ -3,9 +3,9 @@ For this project, we will be working with  online_transactions_cleaned table we 
 
 This is the dataset where we carried out a series of transformations  and built an ETL pipeline  that cleans the data.
 
-A sales analysis via Tableau is also available.
-
 This ETL pipeline is in my [repository](https://github.com/nadiasao/ETL_pipeline_docker)
+
+[View the Tableau Visualization on Tableau Public](your_tableau_link_here)
 
 For this project we carried out following tasks:
 
@@ -21,7 +21,17 @@ For this project we carried out following tasks:
     -Calculate RFM score by combining the individual scores
     -Customer segmentation with K-means
         -Interpret segments with the average RFM values
-        -Interpret segments with the snake plot
+        -Interpret segments with the snake plot.
+
+# My Sales Analysis Dashboard
+A sales analysis via Tableau is also available.
+This dashboard provides insights into sales data, including:
+- Number of orders
+- Average order value
+- Most expensive items sold
+- Monthly sales trends
+- Key customers
+[View the Tableau Visualization on Tableau Public](https://public.tableau.com/views/Transactions_Analyse/Dashboard2?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Requirements
 
